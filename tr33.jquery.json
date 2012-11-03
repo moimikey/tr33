@@ -1,0 +1,29 @@
+{
+  "name": "tr33",
+  "title": "Tr33",
+  "description": "Easily transform ordered lists into pretty entity trees",
+  "version": "0.0.1a",
+  "homepage": "https://github.com/moimikey/tr33.git",
+  "author": {
+    "name": "Michael Scott Hertzberg",
+    "email": "mshertzberg@gmail.com",
+    "url": "http://michael.hertzberg.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moimikey/tr33.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moimikey/tr33/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/moimikey/tr33.git/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.7"
+  },
+  "keywords": []
+}
